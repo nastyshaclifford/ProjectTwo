@@ -21,10 +21,10 @@ This project is a layout of a business card website for the writer Anna Virsen. 
 
 ## Скриншоты / Screenshots
 
-<img width="1440" alt="Снимок экрана 2025-04-30 в 19 44 54" src="https://github.com/user-attachments/assets/cb23b2a5-92ce-4fd7-9563-fa03da0a59ca" />
-<img width="1440" alt="Снимок экрана 2025-04-30 в 19 45 20" src="https://github.com/user-attachments/assets/56e58740-59da-40c9-b961-f8468317ab6e" />
+<img width="1440" alt="Снимок экрана 2025-04-30 в 19 47 24" src="https://github.com/user-attachments/assets/c0b0d6db-19e0-47e3-bfb9-21dea9b6d39b" />
+<img width="1440" alt="Снимок экрана 2025-04-30 в 19 47 36" src="https://github.com/user-attachments/assets/b30ddf67-ba53-4b8b-9957-0c28c98ab64e" />
 
-
+---
 
 ## Демо / Demo
 - Макет: [Figma Design](https://www.figma.com/design/USFkPfntIbT1cFqPIW386t/%D0%90%D0%BD%D0%BD%D0%B0-%D0%92%D0%B8%D1%80%D1%81%D0%B5%D0%BD?node-id=0-1&p=f&t=H7r3Uj4w8DUox4ks-0)  
